@@ -14,8 +14,10 @@ This application provides a secure login system using **bcrypt** for password ha
 ### 🔐 Secure Login System
 - Passwords stored securely with **bcrypt** hashing.
 - **Default Login:**
+
   Username: admin
   Password: admin123
+
 ````
 
 * Ability to change password from within the app.
@@ -98,6 +100,7 @@ Password: admin123
 4. The password will be securely updated in the database using **bcrypt** hashing.
 
 ---
+
 
 
 
