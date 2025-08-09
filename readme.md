@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Application
 
 ```bash
-python main.py
+python login.py
 ```
 
 ---
@@ -104,3 +104,4 @@ Password: admin123
 
 Do you also want me to **add a "Sales Management" section** alongside Purchase Management so your pharmacy app covers both buying from suppliers and selling to customers? That would make the README more complete.
 ```
+
