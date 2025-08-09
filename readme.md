@@ -1,7 +1,3 @@
-Got it — I’ve removed **Billing** and replaced it with **Purchase Management** in your `README.md`.
-Here’s the updated version:
-
-````markdown
 # 💊 Pharmacy Management System (Python + CustomTkinter)
 
 A desktop application for managing a pharmacy’s daily operations, built with **Python**, **CustomTkinter**, and **SQLite3**.  
@@ -100,6 +96,7 @@ Password: admin123
 4. The password will be securely updated in the database using **bcrypt** hashing.
 
 ---
+
 
 
 
