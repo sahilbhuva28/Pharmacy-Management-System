@@ -1,0 +1,9 @@
+bcrypt
+customtkinter
+tkcalendar
+CTkMessagebox
+
+# Standard library modules (already included with Python):
+# sqlite3
+# tkinter
+# datetime
