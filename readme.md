@@ -14,7 +14,6 @@ This application provides a secure login system using **bcrypt** for password ha
 ### 🔐 Secure Login System
 - Passwords stored securely with **bcrypt** hashing.
 - **Default Login:**
-  ```text
   Username: admin
   Password: admin123
 ````
@@ -100,8 +99,5 @@ Password: admin123
 
 ---
 
-```
 
-Do you also want me to **add a "Sales Management" section** alongside Purchase Management so your pharmacy app covers both buying from suppliers and selling to customers? That would make the README more complete.
-```
 
